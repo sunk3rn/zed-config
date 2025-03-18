@@ -14,7 +14,7 @@
     }
   },
   "features": {
-      "inline_completion_provider": "none" //Removes Copilot button
+      "edit_prediction_provider": "none" //Removes Copilot button
   },
   "assistant": { //Removes AI features
     "enabled": false,
@@ -31,5 +31,5 @@
     "mode": "system",
     "light": "One Light",
     "dark": "One Dark"
-  },
+  }
 }
