@@ -25,6 +25,15 @@
     "diagnostics": false,
     "metrics": false
   },
+  "lsp": {
+    "pyright": {
+      "settings": {
+        "python": {
+          "pythonPath": ".venv/bin/python"
+        }
+      }
+    }
+  },
   "ui_font_size": 16,
   "buffer_font_size": 16,
   "theme": {
